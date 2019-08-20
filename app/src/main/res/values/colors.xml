@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name ="colorPrimary">#4CAF50</color>
+    <color name ="colorPrimaryDark">#245326</color>
+    <color name ="colorAccent">#FFC107</color>
+    <color name="buttonNormal">#256ae9</color>
+    <color name="buttonText">#ffffff</color>
+    <color name="buttonBorder">#ffffff</color>
+    <color name="viewBorder">#e7e7e7</color>
+    <color name="mainWord">#047900</color>
+    <color name="testWord">#E3380F</color>
+    <color name="possitiveButton">#1BB637</color>
+    <color name="negetiveButton">#E3380F</color>
+    <color name="bottomViewBorder">#bfd2f5</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="correctCount">#047900</color>
+    <color name="wrongCount">#E3380F</color>
+    <color name="missedCount">#9b5b02</color>
+    <color name="disabled">#e7e7e7</color>
+    <color name="sunColor">#f3a635</color>
+    <color name="headerColor">#da6a44</color>
+    <color name="darkBg">#8000</color>
+</resources>
