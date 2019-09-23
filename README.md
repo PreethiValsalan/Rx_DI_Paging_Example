@@ -1,7 +1,7 @@
 # MVVMEx
 <B>Loading continuously with MVVM LiveData architecture using Retrofit, RxJava & Dagger<B>
 
-<p><strong>Retrofit</strong> is a REST client that uses OkHttp as the HttpClient and JSON Parsers to parse the response.&nbsp;<strong>RxJava</strong> is a library that is used for asynchronous and reactive programming in the form of streams. In this application&nbsp;<strong>Retrofit and&nbsp;</strong>&nbsp;<strong>RxJava&nbsp;</strong>is used to load data into the application avoiding UI lag. In order to create a clean architecture I have used <strong>MVVM</strong> architecture along with <strong>Dagger, Retofit and RxJava</strong>. Infinite scrolling is implemented using the amazing paging library from android.</p>
+<p><strong>Retrofit</strong> is a REST client that uses OkHttp as the HttpClient and GSON Parsers to parse the response.&nbsp;<strong>RxJava</strong> is a library that is used for asynchronous and reactive programming in the form of streams. In this application&nbsp;<strong>Retrofit and&nbsp;</strong>&nbsp;<strong>RxJava&nbsp;</strong>is used to load data into the application avoiding UI lag. In order to create a clean architecture I have used <strong>MVVM</strong> architecture along with <strong>Dagger, Retofit and RxJava</strong>. Infinite scrolling is implemented using the amazing paging library from android.</p>
 
 <ul>
   <li>LiveData</li>
